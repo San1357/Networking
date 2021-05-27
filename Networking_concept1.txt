@@ -1,0 +1,46 @@
+
+--> COMPUTER NETWORK ?
+
+ - group of computers/nodes connected with each other through wires, optical cables, so that various devices(computer) can interact (or talk) to each other 
+   through a network. 
+ 
+ - node can be any devices like computer, printer etc. which are capable of sending or recieving data. 
+ 
+ - the link connecting the nodes are known as communication channels (like wire).
+ 
+ - AIM of Computer Networking  - kul milake apne resources share kr ske with each other. 
+ 
+ 
+ - Computer networking uses Distributed processing means suppose there is a computer who want to send some data to another computer . 
+ so the data travelling with the help of networking. & In between the sending the data (from one computer) & recievinng the data by another computer. so, 
+ there is some protocol or process for data. they  have to go through . so In Processing the task has been divided. this is what Distributed processing is.
+ 
+ 
+ --> Advantages of DISTRIBUTED PROCESSING:
+ 
+ * Security - It provides limited interaction that a user can have with the entire system. example jaise ki bank wale apne users ko atm card ke through 
+              users k account access krne dete h withought allowing whole bank ka database. so, usi trh Distributed Processing me bhi hota h. 
+              jaise ki different computers have different task for processing the data, so suppose 1 computers can access his all the thing related to 
+              his computer. without accessing all the other computer. so, isse security maintain rhega. OP bolte kya . 
+ 
+ * Faster Problem Solving - Multiple computers can solve the problem faster than a single machine working alone.
+ 
+ 
+ Todays Word :
+ 
+ Redundancy : the state of being not or longer needed or useful. 
+ Node: starting point / the part of plant stem from which one or more leaves emerges. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+   
+ 
+ 
+
